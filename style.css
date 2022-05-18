@@ -1,6 +1,17 @@
+body{
+    display: flex;
+}
+
+
+
 button{
     width:260px;
     height:260px;
     color:beige;
     background-color: blueviolet;
+}
+
+.container{
+    background-color: azure;
+    color: black;
 }
